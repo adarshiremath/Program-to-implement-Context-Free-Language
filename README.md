@@ -32,34 +32,7 @@ The code enclosed in this report gives a brief yet efficient implementation of t
 Context Free Language in JavaScript
 
 
-**ACKNOWLEDGEMENT**
 
-We are happy to present this report after completing it successfully. This report
-would not have been possible without the guidance, assistance and suggestions of
-many individuals. We would like to express our deep sense of gratitude and
-indebtedness to each and every one who has helped us make this activity a success.
-
-We heartily thank ​ **Dr. Mohan Babu G. N, Principal, BMS Institute of
-Technology & Management** ​for his constant encouragement, inspiration and also
-for providing the required facilities in taking up this activity.
-
-We thank ​ **Prof. Bhavya G, Dept. of Information Science and Engineering,
-BMS Institute of Technology & Management** ​for her constant encouragement,
-inspiration and advice throughout the course of the group activity.
-
-We heartily thank project coordinator ​ **Dr. Pushpa S K, HoD, Dept. of
-Information science and Engineering,** ​for her constant follow up and advice
-throughout the course of the activity.
-
-Lastly we thank our parents and friends for their encouragement and support given
-to us in order to finish this work.
-
-```
-By,
-Adarsh Hiremath
-Ananth D
-Karan Venkatesh Upamanyu
-```
 
 ## TABLE OF CONTENTS
 
@@ -72,7 +45,7 @@ Karan Venkatesh Upamanyu
    - 7 Example Used In The Code
    - 8 Output
    - 9 Conclusion
-- 10 Resources
+   - 10 Resources
 
 
 **INTRODUCTION**
