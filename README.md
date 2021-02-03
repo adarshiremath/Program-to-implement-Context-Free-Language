@@ -90,7 +90,7 @@ science and linguistics such as natural language processing and computer languag
 design.
 We have come up with a JavaScript program to implement Context Free Languages.
 
-​ **1**
+
 
 
 **CONTEXT FREE GRAMMAR**
@@ -126,9 +126,7 @@ The following are not allowable context-free grammar rules:
 ● a → aSb
 ● ε → a
 
-```
-2
-```
+
 
 **CONTEXT FREE LANGUAGE**
 
@@ -157,7 +155,6 @@ S ⇒ (S) ⇒ ().
 S ⇒ (S) ⇒ (SS) ⇒ ((S)S) ⇒ (()S) ⇒ (()(S)) ⇒ (()()).
 So, S ⇒ *() and S⇒ *(()()).
 
-### 3
 
 
 **LANGUAGE USED - JAVASCRIPT**
@@ -180,7 +177,7 @@ applications and frameworks).
 Our application here runs on the user-end using vanilla JS (pure JavaScript) on the
 VScode environment.
 
-### 4
+
 
 
 **CODE IN JAVASCRIPT**
@@ -241,7 +238,7 @@ returned to the function called in the function cfg.
 ● The value returned will be stored in the variable result, the same will be printed
 out on the screen.
 
-### ​ 6
+
 
 
 **EXAMPLE USED IN THE CODE**
@@ -256,7 +253,7 @@ program.
 
 ```
 ● So we can see in the above example how the replacement is being
-carried out. ​ 7
+carried out.
 ```
 
 **OUTPUT**
@@ -285,6 +282,6 @@ ramma
 ● https://www.tutorialspoint.com/automata_theory/context_free_grammar_introduct
 ion.htm
 ```
-### 9
+
 
 
